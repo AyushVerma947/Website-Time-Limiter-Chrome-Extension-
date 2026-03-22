@@ -1,7 +1,7 @@
 const defaultSites = {
   "instagram.com": 600,
   "facebook.com": 600,
-  "twitter.com": 600
+  "x.com": 600
 };
 
 const list = document.getElementById("list");
